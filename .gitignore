@@ -57,3 +57,12 @@ typings/
 # dotenv environment variables file
 .env
 
+# Retirando arquivos do build do projeto
+
+themes/
+
+public/
+
+_config.yml
+
+db.json
